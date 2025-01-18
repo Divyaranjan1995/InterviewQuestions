@@ -11,6 +11,7 @@ public class Questions1{
 
         System.out.println("Hello World");
 
+        System.out.println("-----------------------------");
 
         removeDuplicateWords("My name is is Divya Divya ranjan padhiary.");
 
